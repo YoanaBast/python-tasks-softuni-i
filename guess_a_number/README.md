@@ -1,3 +1,5 @@
+
+
 Practical Project: Guess A Number
 
 This is an additional practical project, and it is not mandatory and it is not included in the final score. The main purpose is to use the gained knowledge in different types of problems and to improve your portfolio and GitHub skills.
